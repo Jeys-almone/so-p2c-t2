@@ -4,9 +4,12 @@
 
 ## Equipe
 
+- Antonio Marcos Patrício Castro
 - Jeysraelly Almone da Silva
 - Kely Souza da Silva
+- Pedro Lucas Machado Tavares
 - Vinicius Bastos Amaral
+
 
 ## A atividade
 
